@@ -1,6 +1,4 @@
 //RFID Based Solenoid Door lock using Arduino
-//The IoT Projects https://www.youtube.com/@iotprojectsideas
-//website:https://iotprojectsideas.com/
 //RFID RC522 Master Card, Add and Remove multiple Cards
 
 #include <SPI.h>
